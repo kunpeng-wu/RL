@@ -1,0 +1,572 @@
+2024-01-08 11:06:28
+[*] Starting 
+---------------------------------------------------------------------
+
+Critic loss :  tensor(1.5315e-06, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1732, grad_fn=<NegBackward0>)
+Achieved goal :  [1.24979669 0.67639561 0.42478449]
+Desired goal :  [1.32397038 0.78012333 0.42469975]
+[*] Number of episodes : 100 Reward : -12.751937866210938
+[*] End of epoch  0
+---------------------------------------------------------------------
+
+Critic loss :  tensor(3.5366e-05, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1763, grad_fn=<NegBackward0>)
+Achieved goal :  [1.29363644 0.64516712 0.42478449]
+Desired goal :  [1.21407928 0.72991905 0.42469975]
+[*] Number of episodes : 100 Reward : -12.19009780883789
+[*] End of epoch  1
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0004, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1819, grad_fn=<NegBackward0>)
+Achieved goal :  [1.45604167 0.81438691 0.42478449]
+Desired goal :  [1.3009763  0.76392899 0.42469975]
+[*] Number of episodes : 100 Reward : -13.566092491149902
+[*] End of epoch  2
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0013, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1705, grad_fn=<NegBackward0>)
+Achieved goal :  [1.30625229 0.60362161 0.42478451]
+Desired goal :  [1.37593552 0.61552343 0.42469975]
+[*] Number of episodes : 100 Reward : -11.912276268005371
+[*] End of epoch  3
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0014, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1754, grad_fn=<NegBackward0>)
+Achieved goal :  [1.47446495 0.62225753 0.42478449]
+Desired goal :  [1.44330489 0.80382471 0.42469975]
+[*] Number of episodes : 100 Reward : -13.234858512878418
+[*] End of epoch  4
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0033, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2083, grad_fn=<NegBackward0>)
+Achieved goal :  [1.47194226 0.69277444 0.42478449]
+Desired goal :  [1.29257258 0.86363364 0.42469975]
+[*] Number of episodes : 100 Reward : -15.122617721557617
+[*] End of epoch  5
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0030, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1917, grad_fn=<NegBackward0>)
+Achieved goal :  [1.40246598 0.83495026 0.42478449]
+Desired goal :  [1.42193572 0.76596564 0.42469975]
+[*] Number of episodes : 100 Reward : -13.995015144348145
+[*] End of epoch  6
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0031, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1928, grad_fn=<NegBackward0>)
+Achieved goal :  [1.25051258 0.77632796 0.42478449]
+Desired goal :  [1.24525239 0.84033222 0.42469975]
+[*] Number of episodes : 100 Reward : -13.06346321105957
+[*] End of epoch  7
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0037, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1783, grad_fn=<NegBackward0>)
+Achieved goal :  [1.47893378 0.62756695 0.42478449]
+Desired goal :  [1.44452874 0.69164578 0.42469975]
+[*] Number of episodes : 100 Reward : -12.490161895751953
+[*] End of epoch  8
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0034, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1807, grad_fn=<NegBackward0>)
+Achieved goal :  [1.28726483 0.83882068 0.42478449]
+Desired goal :  [1.27001394 0.72066745 0.42469975]
+[*] Number of episodes : 100 Reward : -12.412468910217285
+[*] End of epoch  9
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0047, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1840, grad_fn=<NegBackward0>)
+Achieved goal :  [1.49042231 0.74461643 0.42478449]
+Desired goal :  [1.2143533  0.67880564 0.42469975]
+[*] Number of episodes : 100 Reward : -13.837005615234375
+[*] End of epoch  10
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0084, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2189, grad_fn=<NegBackward0>)
+Achieved goal :  [1.26997424 0.63882855 0.42478449]
+Desired goal :  [1.49331234 0.89380344 0.42469975]
+[*] Number of episodes : 100 Reward : -15.48849868774414
+[*] End of epoch  11
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0082, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.1987, grad_fn=<NegBackward0>)
+Achieved goal :  [1.19973654 0.75666987 0.42478449]
+Desired goal :  [1.4709334  0.66948095 0.42469975]
+[*] Number of episodes : 100 Reward : -16.33721351623535
+[*] End of epoch  12
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0071, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2069, grad_fn=<NegBackward0>)
+Achieved goal :  [1.27917284 0.6428968  0.42478449]
+Desired goal :  [1.40632186 0.82945713 0.42469975]
+[*] Number of episodes : 100 Reward : -16.86720848083496
+[*] End of epoch  13
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0069, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2171, grad_fn=<NegBackward0>)
+Achieved goal :  [1.42973808 0.82589268 0.42478449]
+Desired goal :  [1.24570678 0.67046353 0.42469975]
+[*] Number of episodes : 100 Reward : -17.517791748046875
+[*] End of epoch  14
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0080, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2247, grad_fn=<NegBackward0>)
+Achieved goal :  [1.20671203 0.69562582 0.42478449]
+Desired goal :  [1.42091424 0.66698699 0.42469975]
+[*] Number of episodes : 100 Reward : -17.505258560180664
+[*] End of epoch  15
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0069, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2302, grad_fn=<NegBackward0>)
+Achieved goal :  [1.24498363 0.60172931 0.42478449]
+Desired goal :  [1.33749992 0.78760283 0.42469975]
+[*] Number of episodes : 100 Reward : -17.82061195373535
+[*] End of epoch  16
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0061, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2283, grad_fn=<NegBackward0>)
+Achieved goal :  [1.23345221 0.70255089 0.42478449]
+Desired goal :  [1.41584135 0.67362613 0.42469975]
+[*] Number of episodes : 100 Reward : -17.953636169433594
+[*] End of epoch  17
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0063, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2286, grad_fn=<NegBackward0>)
+Achieved goal :  [1.49200735 0.70419497 0.42478449]
+Desired goal :  [1.42680981 0.87082614 0.42469975]
+[*] Number of episodes : 100 Reward : -17.87696647644043
+[*] End of epoch  18
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0066, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2251, grad_fn=<NegBackward0>)
+Achieved goal :  [1.20960049 0.78884694 0.42478449]
+Desired goal :  [1.29975889 0.74076933 0.42469975]
+[*] Number of episodes : 100 Reward : -17.594385147094727
+[*] End of epoch  19
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0059, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2223, grad_fn=<NegBackward0>)
+Achieved goal :  [1.42162799 0.86576247 0.42478449]
+Desired goal :  [1.38195502 0.70137324 0.42469975]
+[*] Number of episodes : 100 Reward : -17.509185791015625
+[*] End of epoch  20
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0053, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2379, grad_fn=<NegBackward0>)
+Achieved goal :  [1.44798965 0.73324377 0.42478449]
+Desired goal :  [1.26051282 0.8196216  0.42469975]
+[*] Number of episodes : 100 Reward : -17.587759017944336
+[*] End of epoch  21
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0057, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2296, grad_fn=<NegBackward0>)
+Achieved goal :  [1.45086791 0.80919828 0.42478449]
+Desired goal :  [1.34731129 0.80723486 0.42469975]
+[*] Number of episodes : 100 Reward : -17.23842430114746
+[*] End of epoch  22
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0059, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2142, grad_fn=<NegBackward0>)
+Achieved goal :  [1.22935378 0.69303954 0.42478449]
+Desired goal :  [1.26078663 0.69047521 0.42469975]
+[*] Number of episodes : 100 Reward : -16.660383224487305
+[*] End of epoch  23
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0067, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2358, grad_fn=<NegBackward0>)
+Achieved goal :  [1.49121793 0.87774508 0.42478449]
+Desired goal :  [1.3542052  0.64846174 0.42469975]
+[*] Number of episodes : 100 Reward : -17.169008255004883
+[*] End of epoch  24
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0061, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2257, grad_fn=<NegBackward0>)
+Achieved goal :  [1.31988089 0.87469915 0.42478449]
+Desired goal :  [1.43121803 0.67098954 0.42469975]
+[*] Number of episodes : 100 Reward : -17.4561767578125
+[*] End of epoch  25
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0066, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2359, grad_fn=<NegBackward0>)
+Achieved goal :  [1.21668922 0.78950031 0.42478449]
+Desired goal :  [1.47860662 0.62534429 0.42469975]
+[*] Number of episodes : 100 Reward : -17.905696868896484
+[*] End of epoch  26
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0073, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2338, grad_fn=<NegBackward0>)
+Achieved goal :  [1.44516775 0.70698456 0.42478449]
+Desired goal :  [1.33007521 0.84435854 0.42469975]
+[*] Number of episodes : 100 Reward : -17.947187423706055
+[*] End of epoch  27
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0063, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2364, grad_fn=<NegBackward0>)
+Achieved goal :  [1.48907529 0.7620547  0.42478449]
+Desired goal :  [1.21710738 0.66640075 0.42469975]
+[*] Number of episodes : 100 Reward : -18.282808303833008
+[*] End of epoch  28
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0063, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.2356, grad_fn=<NegBackward0>)
+Achieved goal :  [1.28122062 0.63421814 0.42478449]
+Desired goal :  [1.29326471 0.67476993 0.42469975]
+[*] Number of episodes : 100 Reward : -17.77157974243164
+[*] End of epoch  29
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0330, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3361, grad_fn=<NegBackward0>)
+Achieved goal :  [1.36050298 0.96239188 0.42478449]
+Desired goal :  [1.21895322 0.82967701 0.42469975]
+[*] Number of episodes : 100 Reward : -20.206411361694336
+[*] End of epoch  30
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0523, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3631, grad_fn=<NegBackward0>)
+Achieved goal :  [1.36385602 0.89089757 0.42478449]
+Desired goal :  [1.42348004 0.88249263 0.42469975]
+[*] Number of episodes : 100 Reward : -20.115337371826172
+[*] End of epoch  31
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0173, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3484, grad_fn=<NegBackward0>)
+Achieved goal :  [1.23970346 0.82760513 0.42478449]
+Desired goal :  [1.20617614 0.69828207 0.42469975]
+[*] Number of episodes : 100 Reward : -19.735319137573242
+[*] End of epoch  32
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0123, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3406, grad_fn=<NegBackward0>)
+Achieved goal :  [1.2099458  0.82931044 0.42478449]
+Desired goal :  [1.32433178 0.6424304  0.42469975]
+[*] Number of episodes : 100 Reward : -19.591079711914062
+[*] End of epoch  33
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0444, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.4022, grad_fn=<NegBackward0>)
+Achieved goal :  [1.36913853 0.54149953 0.42478449]
+Desired goal :  [1.29826729 0.85597593 0.42469975]
+[*] Number of episodes : 100 Reward : -22.285669326782227
+[*] End of epoch  34
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0338, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3786, grad_fn=<NegBackward0>)
+Achieved goal :  [1.35722094 0.89344504 0.42478449]
+Desired goal :  [1.41371274 0.82306729 0.42469975]
+[*] Number of episodes : 100 Reward : -21.763246536254883
+[*] End of epoch  35
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0574, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3534, grad_fn=<NegBackward0>)
+Achieved goal :  [1.20251733 0.83766659 0.42478449]
+Desired goal :  [1.28706154 0.87904806 0.42469975]
+[*] Number of episodes : 100 Reward : -21.54961585998535
+[*] End of epoch  36
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0425, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3647, grad_fn=<NegBackward0>)
+Achieved goal :  [1.24691293 0.66185212 0.42478449]
+Desired goal :  [1.28103913 0.71220389 0.42469975]
+[*] Number of episodes : 100 Reward : -21.490890502929688
+[*] End of epoch  37
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0476, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3577, grad_fn=<NegBackward0>)
+Achieved goal :  [1.22870625 0.87223561 0.42478449]
+Desired goal :  [1.49017343 0.78438806 0.42469975]
+[*] Number of episodes : 100 Reward : -21.41683006286621
+[*] End of epoch  38
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0461, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3739, grad_fn=<NegBackward0>)
+Achieved goal :  [1.53316353 0.86893958 0.42488844]
+Desired goal :  [1.30900008 0.82995225 0.42469975]
+[*] Number of episodes : 100 Reward : -23.01831817626953
+[*] End of epoch  39
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0577, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3783, grad_fn=<NegBackward0>)
+Achieved goal :  [1.47422346 0.74987605 0.42478449]
+Desired goal :  [1.47768013 0.84156792 0.42469975]
+[*] Number of episodes : 100 Reward : -23.39807891845703
+[*] End of epoch  40
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0817, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3904, grad_fn=<NegBackward0>)
+Achieved goal :  [1.23614893 0.60041755 0.42478449]
+Desired goal :  [1.45538423 0.75048515 0.42469975]
+[*] Number of episodes : 100 Reward : -23.095613479614258
+[*] End of epoch  41
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0873, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3984, grad_fn=<NegBackward0>)
+Achieved goal :  [1.21742102 0.72591104 0.42478449]
+Desired goal :  [1.21999485 0.80458594 0.42469975]
+[*] Number of episodes : 100 Reward : -22.884443283081055
+[*] End of epoch  42
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0749, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3865, grad_fn=<NegBackward0>)
+Achieved goal :  [1.26895533 0.84877638 0.42478449]
+Desired goal :  [1.2273878  0.75181639 0.42469975]
+[*] Number of episodes : 100 Reward : -22.365543365478516
+[*] End of epoch  43
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0886, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3944, grad_fn=<NegBackward0>)
+Achieved goal :  [1.45300663 0.7618111  0.42478449]
+Desired goal :  [1.36354925 0.84147487 0.42469975]
+[*] Number of episodes : 100 Reward : -22.236787796020508
+[*] End of epoch  44
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0465, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3749, grad_fn=<NegBackward0>)
+Achieved goal :  [1.39355076 0.61679328 0.42478449]
+Desired goal :  [1.39682038 0.77854031 0.42469975]
+[*] Number of episodes : 100 Reward : -21.98863410949707
+[*] End of epoch  45
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0323, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3599, grad_fn=<NegBackward0>)
+Achieved goal :  [1.25771835 0.89481884 0.42478449]
+Desired goal :  [1.23677534 0.88128161 0.42469975]
+[*] Number of episodes : 100 Reward : -21.505619049072266
+[*] End of epoch  46
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0769, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3714, grad_fn=<NegBackward0>)
+Achieved goal :  [1.48465607 0.73429758 0.42478449]
+Desired goal :  [1.47503997 0.84682769 0.42469975]
+[*] Number of episodes : 100 Reward : -23.048988342285156
+[*] End of epoch  47
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0530, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3862, grad_fn=<NegBackward0>)
+Achieved goal :  [1.23484739 0.80187218 0.42478449]
+Desired goal :  [1.42432478 0.80132354 0.42469975]
+[*] Number of episodes : 100 Reward : -23.23322105407715
+[*] End of epoch  48
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0332, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3529, grad_fn=<NegBackward0>)
+Achieved goal :  [1.22715056 0.75178863 0.42478449]
+Desired goal :  [1.42196739 0.60582722 0.42469975]
+[*] Number of episodes : 100 Reward : -22.606035232543945
+[*] End of epoch  49
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0757, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3556, grad_fn=<NegBackward0>)
+Achieved goal :  [1.49155503 0.71307348 0.42478449]
+Desired goal :  [1.39035871 0.68234115 0.42469975]
+[*] Number of episodes : 100 Reward : -22.801671981811523
+[*] End of epoch  50
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0303, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3827, grad_fn=<NegBackward0>)
+Achieved goal :  [1.23055021 0.74515479 0.42478449]
+Desired goal :  [1.38228979 0.74982137 0.42469975]
+[*] Number of episodes : 100 Reward : -22.58416175842285
+[*] End of epoch  51
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0748, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3600, grad_fn=<NegBackward0>)
+Achieved goal :  [1.25805598 0.80453081 0.42478449]
+Desired goal :  [1.44219848 0.88611588 0.42469975]
+[*] Number of episodes : 100 Reward : -22.289928436279297
+[*] End of epoch  52
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0517, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3563, grad_fn=<NegBackward0>)
+Achieved goal :  [1.4890397  0.63699231 0.42478449]
+Desired goal :  [1.29550412 0.75698875 0.42469975]
+[*] Number of episodes : 100 Reward : -22.2689208984375
+[*] End of epoch  53
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0367, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3627, grad_fn=<NegBackward0>)
+Achieved goal :  [1.46683685 0.8134828  0.42478449]
+Desired goal :  [1.46650365 0.62669137 0.42469975]
+[*] Number of episodes : 100 Reward : -22.305665969848633
+[*] End of epoch  54
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0760, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3684, grad_fn=<NegBackward0>)
+Achieved goal :  [1.3698     0.87839317 0.42478449]
+Desired goal :  [1.42582812 0.76656091 0.42469975]
+[*] Number of episodes : 100 Reward : -22.165679931640625
+[*] End of epoch  55
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0603, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3598, grad_fn=<NegBackward0>)
+Achieved goal :  [1.4498267  0.88381196 0.42478449]
+Desired goal :  [1.30954808 0.62797506 0.42469975]
+[*] Number of episodes : 100 Reward : -22.317577362060547
+[*] End of epoch  56
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0478, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3767, grad_fn=<NegBackward0>)
+Achieved goal :  [1.2603462  0.89122618 0.42478449]
+Desired goal :  [1.24240532 0.63794587 0.42469975]
+[*] Number of episodes : 100 Reward : -22.676044464111328
+[*] End of epoch  57
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0521, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3650, grad_fn=<NegBackward0>)
+Achieved goal :  [1.45888594 0.73073565 0.42478449]
+Desired goal :  [1.37631021 0.73964182 0.42469975]
+[*] Number of episodes : 100 Reward : -22.269798278808594
+[*] End of epoch  58
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0383, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3636, grad_fn=<NegBackward0>)
+Achieved goal :  [1.46094488 0.78418424 0.42478449]
+Desired goal :  [1.25872349 0.71194089 0.42469975]
+[*] Number of episodes : 100 Reward : -22.372034072875977
+[*] End of epoch  59
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0500, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3704, grad_fn=<NegBackward0>)
+Achieved goal :  [1.21091539 0.87693715 0.42478449]
+Desired goal :  [1.22610538 0.78864251 0.42469975]
+[*] Number of episodes : 100 Reward : -21.92902374267578
+[*] End of epoch  60
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0465, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3623, grad_fn=<NegBackward0>)
+Achieved goal :  [1.21631185 0.77032619 0.42478449]
+Desired goal :  [1.30545805 0.83537736 0.42469975]
+[*] Number of episodes : 100 Reward : -21.860042572021484
+[*] End of epoch  61
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0377, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3512, grad_fn=<NegBackward0>)
+Achieved goal :  [1.33167102 0.63196273 0.42478449]
+Desired goal :  [1.4017013  0.74312469 0.42469975]
+[*] Number of episodes : 100 Reward : -21.908100128173828
+[*] End of epoch  62
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0521, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3404, grad_fn=<NegBackward0>)
+Achieved goal :  [1.44937639 0.73762872 0.42478449]
+Desired goal :  [1.48587931 0.6038996  0.42469975]
+[*] Number of episodes : 100 Reward : -21.601795196533203
+[*] End of epoch  63
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0473, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3310, grad_fn=<NegBackward0>)
+Achieved goal :  [1.28406944 0.83518529 0.42478449]
+Desired goal :  [1.205758   0.73704458 0.42469975]
+[*] Number of episodes : 100 Reward : -21.515979766845703
+[*] End of epoch  64
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0509, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3518, grad_fn=<NegBackward0>)
+Achieved goal :  [1.37612535 0.84611295 0.42478449]
+Desired goal :  [1.49502129 0.83198422 0.42469975]
+[*] Number of episodes : 100 Reward : -21.546964645385742
+[*] End of epoch  65
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0577, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3445, grad_fn=<NegBackward0>)
+Achieved goal :  [1.20625865 0.76406889 0.42478449]
+Desired goal :  [1.39367884 0.71541557 0.42469975]
+[*] Number of episodes : 100 Reward : -21.03969383239746
+[*] End of epoch  66
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0316, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3277, grad_fn=<NegBackward0>)
+Achieved goal :  [1.46134207 0.62191578 0.42478449]
+Desired goal :  [1.29929606 0.73231158 0.42469975]
+[*] Number of episodes : 100 Reward : -21.078222274780273
+[*] End of epoch  67
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0725, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3132, grad_fn=<NegBackward0>)
+Achieved goal :  [1.25910016 0.82788554 0.42478449]
+Desired goal :  [1.43761777 0.77197983 0.42469975]
+[*] Number of episodes : 100 Reward : -21.40039825439453
+[*] End of epoch  68
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0374, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3589, grad_fn=<NegBackward0>)
+Achieved goal :  [1.35852249 0.63295378 0.42478449]
+Desired goal :  [1.36877455 0.74376047 0.42469975]
+[*] Number of episodes : 100 Reward : -21.15683937072754
+[*] End of epoch  69
+---------------------------------------------------------------------
+
+Critic loss :  tensor(0.0453, grad_fn=<MseLossBackward0>)
+Actor loss :  tensor(0.3585, grad_fn=<NegBackward0>)
+Achieved goal :  [1.39601982 0.86477325 0.42478449]
+Desired goal :  [1.39104087 0.70119727 0.42469975]
+[*] Number of episodes : 100 Reward : -20.96214485168457
+[*] End of epoch  70
+---------------------------------------------------------------------
+
