@@ -31,4 +31,4 @@ print(net1(X))
 print(net1[2].state_dict())
 print(net1[2].bias)
 print(net1[2].bias.data)
-
+print("hello")
